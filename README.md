@@ -1,6 +1,6 @@
 # Software Catalog Manager
 
-Une application auto-hébergée pour gérer votre catalogue de logiciels professionnels (Autocad, Solidworks, Ansys, etc.).
+Une application auto-hébergée pour gérer votre catalogue de logiciels professionnels (Autocad, Solidworks, Ansys, etc).
 
 ## Fonctionnalités
 
